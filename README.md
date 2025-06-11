@@ -42,7 +42,7 @@ SmartMerchantAdvance/
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/SmartMerchantAdvance.git
+git clone https://github.com/mageed-ghaleb/SmartMerchantAdvance.git
 cd SmartMerchantAdvance
 ```
 
