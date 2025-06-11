@@ -62,7 +62,7 @@ We will soon add a Streamlit-based dashboard for interactive forecasting and opt
 
 ## 👨‍💻 Author
 
-Created by [Your Name] – Senior Data Scientist | Optimization & AI Specialist  
+Created by Mageed Ghaleb – Senior Data Scientist | Optimization & AI Specialist  
 Inspired by real-world work at Moneris (Canada’s leading payment processor)
 
 ## 📄 License
